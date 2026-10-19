@@ -34,7 +34,7 @@ html_context = {"docs_header_version": "26.03"}
 html_theme = "rocm_docs_theme"
 html_theme_options = {
     "flavor": "rocm-ds",
-    "repository_url": "https://github.com/AMD-Ecosystem/dask-hip/",
+    "repository_url": "https://github.com/AMD-Ecosystem/hipGRAPH/",
 }
 
 extensions = [
